@@ -1,0 +1,16 @@
+{
+  "name": "webscraper",
+  "version": "1.0.0",
+  "description": "��#\u0000 \u0000o\u0000p\u0000t\u0000i\u0000c\u0000s\u0000-\u0000s\u0000c\u0000r\u0000a\u0000p\u0000e\u0000r\u0000\r\u0000 \u0000",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.4.0",
+    "cheerio": "^1.0.0-rc.12",
+    "express": "^4.18.2"
+  }
+}
